@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # ===== CONFIG =====
-BOT_TOKEN = os.getenv("BOT_TOKEN")  # Railway env variable
+BOT_TOKEN = os.getenv("8595744479:AAHE61_j6atiMT299Ap-rL0bAVfNdWuxnGI")  # Railway env variable
 API_KEY = "DEMO"  # Yaha apni real API key daal sakte ho
 
 # ===== START =====
